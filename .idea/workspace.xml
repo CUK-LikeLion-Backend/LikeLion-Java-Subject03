@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="58958a57-4f77-461c-a34c-033f32798d13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLion-Java-Subject03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex00/CarConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex00/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex00/MyLittleCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/MyLittleCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/SonataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/MainBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,12 +47,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kim-yejin/LikeLion-Java-Subject03&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainBoard">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex00.CarTest" />
+      <module name="LikeLion-Java-Subject03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex00.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LikeLion-Java-Subject03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.MainBoard" />
+      <module name="LikeLion-Java-Subject03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.SingletonTest" />
+      <module name="LikeLion-Java-Subject03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainBoard" />
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
